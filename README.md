@@ -42,14 +42,27 @@ I help organizations make data-driven decisions by:
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 **Focus Areas**: Traffic Analysis, User Behavior, Audience Segmentation, SEO/SEA
-
 ## 📊 Featured Projects
 
 ### 🔄 ETL Pipeline Optimization Framework
-*Coming Soon*
-> Automated data pipeline solution that reduces processing time by 90%. Built with Python and SQL, featuring data quality checks and error handling.
+[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repository-blue?style=flat&logo=github)](https://github.com/andrescamigc/etl-pipeline-framework)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Stars](https://img.shields.io/github/stars/andrescamigc/etl-pipeline-framework?style=social)](https://github.com/andrescamigc/etl-pipeline-framework/stargazers)
 
-**Tech Stack**: Python, SQL, Pandas, SQLAlchemy
+> Production-ready ETL pipeline framework that achieves **75% performance improvement** through intelligent batch processing, parallel execution, and memory-efficient chunked reading. Features comprehensive data quality validation, robust error handling, and real-time performance metrics.
+
+**Key Features:**
+- ⚡ **75% faster processing** - Optimized batch and parallel execution
+- 🔍 **Data Quality Checks** - Null validation, duplicate detection, type verification
+- 💾 **Memory Efficient** - Chunked reading for large datasets (10M+ rows)
+- 📊 **Performance Monitoring** - Real-time metrics and stage-level timing
+- 🔧 **Production Ready** - Comprehensive logging, error handling, and configuration management
+
+**Tech Stack**: Python | SQL | Pandas | SQLAlchemy | PostgreSQL | SQLite
+
+**Impact**: Reduced processing time from 95 minutes to 24 minutes on 10M row datasets
+
+[**View Project →**](https://github.com/andrescamigc/etl-pipeline-framework) | [**Documentation**](https://github.com/andrescamigc/etl-pipeline-framework#readme)
 
 ---
 
