@@ -11,10 +11,10 @@ I'm an Economist and Data Analyst with a Master of Science in Economics, passion
 ## 💡 What I Do
 
 I help organizations make data-driven decisions by:
-- **Optimizing ETL Pipelines**: Achieved up to 90% reduction in processing times through strategic database migrations and automation
-- **Building Business Intelligence Solutions**: Transformed manual reporting processes into dynamic, interactive dashboards
-- **Automating Data Workflows**: Developed Python scripts and VBA macros that reduce data preparation time by 87.5%
-- **Delivering Strategic Insights**: Orchestrated end-to-end analytics projects for major clients including Microsoft, Amazon, and Ford
+- **Building Business Intelligence Solutions**: Transformed manual reporting processes into dynamic, interactive dashboards.
+- **Optimizing ETL Pipelines**: Achieved up to 90% reduction in processing times through strategic database migrations and automation.
+- **Automating Data Workflows**: Developed Python scripts and VBA macros that reduce data preparation time by 87.5%.
+- **Delivering Strategic Insights**: Orchestrated end-to-end analytics projects for major clients including Microsoft, Amazon, and Ford.
 
 ## 🛠️ Technical Skills
 
