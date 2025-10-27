@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-I'm an Economist and Data Analyst with a Master of Science in Economics, passionate about transforming complex data into strategic business decisions. With 2 years of hands-on experience, I specialize in optimizing data pipelines, building interactive dashboards, and extracting actionable insights that drive business efficiency.
+I'm an Economist and Data Analyst with a Master of Science in Economics, passionate about transforming complex data into strategic business decisions. With 3 years of hands-on experience, I specialize in optimizing data pipelines, building interactive dashboards, and extracting actionable insights that drive business efficiency.
 
 🌍 Based in Bogotá, Colombia  
 📧 andrescamigc@gmail.com  
