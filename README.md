@@ -2,7 +2,7 @@
 
 ## 🎯 About Me
 
-I'm an Economist and Data Analyst with a Master of Science in Economics, passionate about transforming complex data into strategic business decisions. With 3 years of hands-on experience, I specialize in optimizing data pipelines, building interactive dashboards, and extracting actionable insights that drive business efficiency.
+Data Analyst and Economist with M.Sc. in Economics and 2 years of experience delivering measurable business impact through machine learning, statistical modeling, and advanced analytics. Proven track record of reducing processing times by 90 % and automating workflows that save 20+ hours monthly. Strong foundation in building end-to-end ML pipelines, feature engineering, and model deployment using Python, SQL, TensorFlow, and cloud platforms (AWS, GCP). Experienced in translating complex analytical findings into actionable insights for cross-functional stakeholders. Passionate about leveraging data driven solutions to solve real-world problems and drive innovation.
 
 🌍 Based in Bogotá, Colombia  
 📧 andrescamigc@gmail.com  
